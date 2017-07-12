@@ -39,13 +39,13 @@
 
 		<h2>Things to do today</h2>
 		<ol>
-			<li>Clean the breakfast dishes</li>
+			<li>Clean the coffee pot</li>
 			<li>Call Brian</li>
 			<li>Get all my stuff together</li>
 			<li>Never eat doughnuts again</li>
 		</ol>
 
-		<h2>This is a picture</h2>
-		<img src="images/snoopy.jpg">
+		<h2>This is Snoopy</h2>
+		<img src="images/snoopy.jpg" alt="Snoopy">
 	</body>
 </html>
