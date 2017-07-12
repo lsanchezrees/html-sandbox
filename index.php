@@ -44,5 +44,8 @@
 			<li>Get all my stuff together</li>
 			<li>Never eat doughnuts again</li>
 		</ol>
+
+		<h2>This is a picture</h2>
+		<img src="images/snoopy.jpg">
 	</body>
 </html>
