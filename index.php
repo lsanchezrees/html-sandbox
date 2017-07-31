@@ -36,6 +36,42 @@
 	</head>
 
 	<body>
+		<!--begin grid layout-->
+		<div class=""container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2>
+					Column 1
+				</h2>
+				<p>
+					Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure. Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work collectively as they perform ship functions. Increase deflector modulation to upper frequency band.
+				</p>
+
+
+			</div><!--column-->
+			<div class="col-md-6">
+				<h2>
+					Column 2
+				</h2>
+
+				<p>
+					Run a manual sweep of anomalous airborne or electromagnetic readings. Radiation levels in our atmosphere have increased by 3,000 percent. Electromagnetic and subspace wave fronts approaching synchronization. What is the strength of the ship's deflector shields at maximum output? The wormhole's size and short period would make this a local phenomenon. Do you have sufficient data to compile a holographic simulation?
+				</p>
+
+
+			</div><!--column-->
+		</div><!--row-->
+		<div class="row">
+			<div class="col-xs-6 col-md-12">
+				<h3>Column 3</h3>
+				<p>
+					Run a manual sweep of anomalous airborne or electromagnetic readings. Radiation levels in our atmosphere have increased by 3,000 percent. Electromagnetic and subspace wave fronts approaching synchronization. What is the strength of the ship's deflector shields at maximum output? The wormhole's size and short period would make this a local phenomenon. Do you have sufficient data to compile a holographic simulation?
+				</p>
+
+			</div><!--column-->
+		</div><!--row-->
+
+		</div><!--container-->
 
 
 	</body>
