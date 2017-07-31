@@ -36,13 +36,15 @@
 	</head>
 
 	<body>
+
+		<header<div class="container"><h1>Resistance is futile</h1></div></header>
 		<!--begin grid layout-->
 		<div class=""container">
 		<div class="row">
 			<div class="col-md-6">
-				<h2>
+				<h3>
 					Column 1
-				</h2>
+				</h3>
 				<p>
 					Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure. Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work collectively as they perform ship functions. Increase deflector modulation to upper frequency band.
 				</p>
@@ -50,9 +52,9 @@
 
 			</div><!--column-->
 			<div class="col-md-6">
-				<h2>
+				<h3>
 					Column 2
-				</h2>
+				</h3>
 
 				<p>
 					Run a manual sweep of anomalous airborne or electromagnetic readings. Radiation levels in our atmosphere have increased by 3,000 percent. Electromagnetic and subspace wave fronts approaching synchronization. What is the strength of the ship's deflector shields at maximum output? The wormhole's size and short period would make this a local phenomenon. Do you have sufficient data to compile a holographic simulation?
@@ -70,8 +72,43 @@
 
 			</div><!--column-->
 		</div><!--row-->
+		<div class="row">
+		<div class="col-md-4">
+			<h3>Column 4</h3>
+			<p>
+				Now what are the possibilities of warp drive? Cmdr Riker's nervous system has been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract it. The vertex waves show a K-complex corresponding to an REM state. The engineering section's critical. Destruction is imminent. Their robes contain ultritium, highly explosive, virtually undetectable by your transporter.
+			</p>
+
+			<p>
+				Resistance is futile.
+			</p>
+		</div><!--column-->
+			<div class="col-md-4">
+				<h3>Column 5</h3>
+				<p>
+					Shields up. I recommend we transfer power to phasers and arm the photon torpedoes. Something strange on the detector circuit. The weapons must have disrupted our communicators. You saw something as tasty as meat, but inorganically materialized out of patterns used by our transporters. Captain, the most elementary and valuable statement in science, the beginning of wisdom, is 'I do not know.' All transporters off.
+				</p>
+
+				<p>
+					Resistance is futile.
+				</p>
+			</div><!--column-->
+			<div class="col-md-4">
+				<h3>Column 6</h3>
+				<p>
+					Run a manual sweep of anomalous airborne or electromagnetic readings. Radiation levels in our atmosphere have increased by 3,000 percent. Electromagnetic and subspace wave fronts approaching synchronization. What is the strength of the ship's deflector shields at maximum output? The wormhole's size and short period would make this a local phenomenon. Do you have sufficient data to compile a holographic simulation?
+				</p>
+
+				<p>
+					Resistance is futile.
+				</p>
+			</div><!--column-->
+
+
+		</div><!--row-->
 
 		</div><!--container-->
+		<footer><div class="container"><p>This is a footer. Resistance is futile.</p></div></footer>
 
 
 	</body>
